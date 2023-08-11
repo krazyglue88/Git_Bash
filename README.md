@@ -76,7 +76,9 @@ mv file1.txt file2.txt test4/
 the second 2
 
 the third 3```
-     ```Enter``` ```ctrl" + "c"```
+
+```Enter``` ```ctrl" + "c"```
+
 7. Зайти в папку inner_dir_1 ```cd inner_dir_1```
 8. Через cat сделать текстовый файл tf_3.txt  c любыми строками  
                                                        ```cat > tf_3.txt``` ```Enter```
