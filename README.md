@@ -92,9 +92,10 @@ mv file1.txt file2.txt test4/
                                            ```Enter``` ```ctrl" + "c"```
 11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”
 
-
                                        ```cat >> ../tf_2.txt``` ```Enter```
+
   Вводим текст: ```the sec 3``` ```Enter``` ```ctrl" + "c"```
+
 12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”
                            ```cat >> tf_3.txt```
              Вводим текст: ```the SeCoNd```
