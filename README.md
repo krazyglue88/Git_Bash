@@ -69,11 +69,10 @@ mv file1.txt file2.txt test4/
 6. Находясь в папке dir_1 через команду cat создать текстовый файл tf_2.txt со следующими строками:
 
 the first 1
-
 the second 2
-
 the third 3
-                   ```cat > tf_2.txt``` + ```Enter```
+               
+```cat > tf_2.txt``` + ```Enter```
 Вводим текст:  ```the first```
 
 ```the second 2```
