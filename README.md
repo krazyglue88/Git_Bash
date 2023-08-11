@@ -151,6 +151,7 @@ mv file1.txt file2.txt test4/
 ```mkdir my_file && echo "Hello, this is Ivan" > my_file/greeting.txt``` - создастся папка и внутри неё текстовый файл с содержимым
 
 ```mkdir my_file|echo Hello, this is Ivan > greeting.txt``` - создастся папка и отдельно от неё текстовый файл с содержимым
+
 36. Команда в одну строку. Переместить в любую одну папку текстовые файлы у которых в содержимом есть слово “sec”
 ```grep -l -r sec|xargs -I {} mv {} my_file/```
 37. Команда в одну строку. Скопировать в любую одну папку текстовые файлы у которых в содержимом есть слово “sec”            ```grep -l -r sec| xargs -I {} cp {} my_file/```
