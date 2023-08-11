@@ -102,9 +102,7 @@ mv file1.txt file2.txt test4/
 13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”
                                        ```cat >> ../tf_2.txt```
 
-                                   Вводим текст: ```the seConD 2```
-
-                                     ```Enter``` ```ctrl" + "c"```
+                                   Вводим текст: ```the seConD 2``` ```Enter``` ```ctrl" + "c"```
 
 14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
                  ```for i in {1..15}; do echo "$i" >> tf_4.txt; done```
